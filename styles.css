@@ -1,0 +1,35 @@
+body {
+    
+    padding: 10px;
+    text-align: center;
+    width: 200px; 
+    min-width: 200px; 
+    box-sizing: border-box; 
+  }
+
+  .heading{
+    font: 15px 'Monaco', monospace;
+    color: rgb(112, 109, 109);
+  }
+
+  input {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 80%;
+    outline:none;
+  }
+  
+  button {
+    width: 90%;
+    padding: 8px;
+    border-radius: 5px;
+    font-family: 'Monaco', monospace;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
