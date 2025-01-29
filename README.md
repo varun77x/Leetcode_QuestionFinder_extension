@@ -1,6 +1,8 @@
 # Leetcode_QuestionFinder_extension
 A simple browser extension that allows you to open LeetCode problems by entering their question number. The extension maps the question number to the corresponding LeetCode problem URL and opens it in a new tab.
 
+![](extension_gif.gif)
+
 ## Installation
 ### 1. Clone or Download the Repository
 Clone this repository or download the files to your local machine.
